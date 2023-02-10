@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+django
+matplotlib
+seaborn
+whitenoise
+psycopg2-binary
+gunicorn
+django_on_heroku
+django-heroku
+
